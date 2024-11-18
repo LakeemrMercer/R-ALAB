@@ -1,0 +1,32 @@
+Var TaylorSwift = ["Red", "Lover" "Folklore"]
+let numbers = [4, 8, 15]
+
+
+print(Red [4])
+print(Lover[8])
+print(Folklore [15])
+
+TaylorSwift.append("Red")
+TaylorSwift.append("Lover")
+TaylorSwift.Append("Folklore")
+
+Var scores = Array<int>()
+scores.append(80)
+scores.append (55)
+scores.append (35)
+print (scores[1])
+
+Var Food = ["New York"]
+Food.append ("PhillySteak")
+Food.append ("ChopCheese")
+Print (Food.count)
+
+Var Albums = ["Red", "Lover", "Folklore"]
+print (Albums.count)
+
+Albums.Remove (at:8)
+Print.(albums.count)
+
+Albums.removeAll()
+    print.apply(Album.count)
+
